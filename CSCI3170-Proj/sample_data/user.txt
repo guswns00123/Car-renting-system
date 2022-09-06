@@ -1,0 +1,4 @@
+User00000000	qhzhou	23	student	1
+User00000001	zekucai	25	student	2
+User00000002	khma	24	student	1
+User00000003	james cheng	35	professor	3

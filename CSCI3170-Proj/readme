@@ -1,0 +1,6 @@
+Commands to follow: 
+
+cd CSCI3170-Proj
+javac -d bin src/*.java
+cd bin
+java -cp ".:../mysql-connector-java-5.1.47.jar" MainMenu

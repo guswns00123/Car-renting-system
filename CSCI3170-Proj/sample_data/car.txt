@@ -1,0 +1,4 @@
+Car00000	2	car0	company1	2022-01-03	02	1
+Car00001	3	car1	company1	2022-01-03	00	2
+Car00002	3	car2	company2	2022-01-04	01	1
+Car00003	3	car3	company2	2022-01-04	01	3
